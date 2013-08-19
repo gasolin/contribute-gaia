@@ -8,7 +8,7 @@ contribute-gaia
 It tell audience why contribute to Open Source, why mozilla/B2G/gaia, the basic Firefox OS architecture, 
 and profile the Firefox OS Frontend (gaia) contribution procedures for new commers.
 
-## reference
+## Reference
 
 * [Gaia Related Docs](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Platform/Gaia)
 * [HTML reference] (https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
