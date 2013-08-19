@@ -1,74 +1,74 @@
 # Homescreen
 
-"activities": {
-    "save-bookmark": {
-      "filters": {
-        "type": "url",
-        "url": { "required":true, "pattern":"https?:.{1,16384}" }
-      },
-      "disposition": "inline",
-      "href": "/save-bookmark.html",
-      "returnValue": true
+    "activities": {
+      "save-bookmark": {
+        "filters": {
+          "type": "url",
+          "url": { "required":true, "pattern":"https?:.{1,16384}" }
+        },
+        "disposition": "inline",
+        "href": "/save-bookmark.html",
+        "returnValue": true
+      }
     }
-  }
 
 # Bluetooth
 
-"activities": {
-    "share": {
-      "disposition": "inline",
-      "returnValue": true,
-      "href": "/transfer.html"
-    }
-  },
+    "activities": {
+      "share": {
+        "disposition": "inline",
+        "returnValue": true,
+        "href": "/transfer.html"
+      }
+    },
 
 # Browser
 
-"activities": {
-    "view": {
-      "filters": {
-        "type": "url",
-        "url": {
-          "required":true, "pattern":"https?:.{1,16384}", "patternFlags":"i"
+    "activities": {
+      "view": {
+        "filters": {
+          "type": "url",
+          "url": {
+            "required":true, "pattern":"https?:.{1,16384}", "patternFlags":"i"
+          }
         }
       }
     }
-  }
 
 # Camera
 
-"activities": {
-    "record": {
-      "filters": {
-        "type": ["photos", "videos"]
-       },
-      "disposition": "window"
+    "activities": {
+      "record": {
+        "filters": {
+          "type": ["photos", "videos"]
+         },
+        "disposition": "window"
+      },
+      "pick": {
+        "filters": {
+          "type": ["image/*", "image/jpeg", "video/*", "video/3gpp"]
+         },
+        "returnValue": true,
+        "disposition": "inline",
+        "href": "/index.html#pick"
+      }
     },
-    "pick": {
-      "filters": {
-        "type": ["image/*", "image/jpeg", "video/*", "video/3gpp"]
-       },
-      "returnValue": true,
-      "disposition": "inline",
-      "href": "/index.html#pick"
-    }
-  },
   
 # Communication
 
-"activities": {
-    "pick": {
-      "filters": {
-        "type": {
-          "required": true,
-          "value": ["webcontacts/contact","webcontacts/email","webcontacts/tel"]
-        }
-       },
-      "disposition": "inline",
-      "href": "/contacts/index.html?pick",
-      "returnValue": true
-    },
-    "open": {
+    "activities": {
+      "pick": {
+        "filters": {
+          "type": {
+            "required": true,
+            "value": ["webcontacts/contact","webcontacts/email","webcontacts/tel"]
+          }
+         },
+        "disposition": "inline",
+        "href": "/contacts/index.html?pick",
+        "returnValue": true
+      },
+      "open": {
       "filters": {
         "type": "webcontacts/contact"
       },
@@ -100,11 +100,11 @@
       "href": "/dialer/index.html#keyboard-view",
       "disposition": "window"
     }
-  },
+    },
   
 # CostControl
 
-"activities": {
+    "activities": {
     "costcontrol/balance": {
       "filters": {
        },
@@ -120,11 +120,11 @@
        },
       "disposition": "window"
     }
-  }
+    }
   
 # Email
 
-"activities": {
+    "activities": {
     "new": {
       "filters": {
         "type": "mail"
@@ -144,11 +144,11 @@
         "url": { "required":true, "pattern":"mailto:.{1,16384}" }
       }
     }
-  },
+    },
   
 # Gallery
 
-"activities": {
+    "activities": {
     "browse": {
       "filters": {
         "type": "photos"
@@ -171,11 +171,11 @@
       "returnValue": true,
       "href": "/open.html"
     }
-  },
+    },
   
 # Music 
 
-"activities": {
+    "activities": {
     "pick": {
       "filters": {
         "type": ["audio/*", "audio/mpeg", "audio/ogg", "audio/mp4"]
@@ -192,12 +192,12 @@
       "returnValue": true,
       "href": "/open.html"
     }
-  }
+    }
   
 
 # PDF.js
 
-"activities": {
+    "activities": {
     "view" : {
       "filters": {
         "type": "application/pdf"
@@ -206,23 +206,23 @@
       "href": "/content/web/viewer.html",
       "returnValue": true
     }
-  },
+    },
 
 # Settings
 
-"activities": {
+    "activities": {
     "configure": {
       "filters": {
         "target": "device"
        },
       "disposition": "window"
     }
-  },
+    },
   
 
 # SMS
 
-"activities": {
+    "activities": {
     "new": {
       "filters": {
         "type": "websms/sms",
@@ -240,11 +240,11 @@
       "disposition": "window",
       "returnValue": true
     }
-  },
+    },
   
 # Video
 
-"activities": {
+    "activities": {
     "pick": {
       "filters": {
         "type": ["video/*", "video/webm", "video/mp4", "video/3gpp", "video/ogg"]
@@ -269,11 +269,11 @@
       "disposition": "inline",
       "returnValue": true
     }
-  }
+    }
   
 # Wallpaper
 
-"activities": {
+    "activities": {
     "pick": {
       "filters": {
         "type": ["image/*", "image/jpeg"],
@@ -293,6 +293,6 @@
       "returnValue": true,
       "href": "/share.html"
     }
-  },
+    },
   
   
