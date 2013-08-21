@@ -1,6 +1,6 @@
 ## Dev webapp
 
- * [what is firefoxos] (http://en.wikipedia.org/wiki/Firefox_OS)
+ * [What is firefoxos] (http://en.wikipedia.org/wiki/Firefox_OS)
  * [FirefoxOS Simulator] (https://developer.mozilla.org/en-US/docs/Tools/Firefox_OS_Simulator)
  * [FirefoxOS Boilerplate App] (https://github.com/robnyman/Firefox-OS-Boilerplate-App)
  * [FxosBMI] (https://github.com/gasolin/fxosbmi/tree/indexedDB)
