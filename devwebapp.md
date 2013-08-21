@@ -4,6 +4,7 @@
  * [FirefoxOS Simulator] (https://developer.mozilla.org/en-US/docs/Tools/Firefox_OS_Simulator)
  * [FirefoxOS Boilerplate App] (https://github.com/robnyman/Firefox-OS-Boilerplate-App)
  * [FxosBMI] (https://github.com/gasolin/fxosbmi/tree/indexedDB)
+ * [App FAQ] (https://wiki.mozilla.org/B2G/FAQ/Apps)
 
 ## Tools to protect your code
 
