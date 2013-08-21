@@ -6,6 +6,10 @@
  * [FxosBMI] (https://github.com/gasolin/fxosbmi/tree/indexedDB)
  * [App FAQ] (https://wiki.mozilla.org/B2G/FAQ/Apps)
 
+## Payment
+ * [Marketplace Payment] (https://marketplace.firefox.com/developers/docs/payments) / [another reference](https://developer.mozilla.org/en-US/docs/Web/Apps/FAQs/Marketplace_payments)
+ * [In-app payment](https://developer.mozilla.org/en-US/docs/Web/Apps/Publishing/In-app_payments)
+
 ## Tools to protect your code
 
  * js to optimized js [google closure compiler] (https://developers.google.com/closure/compiler/docs/gettingstarted_app)
