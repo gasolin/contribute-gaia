@@ -7,6 +7,14 @@
  * [BuildingBlocks] (https://github.com/mozilla-b2g/Gaia-UI-Building-Blocks)
  * [App FAQ] (https://wiki.mozilla.org/B2G/FAQ/Apps)
 
+## Web API availability
+ * MobileHTML (http://mobilehtml5.org/)
+ * Can I Use (http://caniuse.com/)
+
+## Browser Performance
+ * HTML5test (http://html5test.com/)
+
+
 ## Payment
  * [Marketplace Payment] (https://marketplace.firefox.com/developers/docs/payments) / [another reference](https://developer.mozilla.org/en-US/docs/Web/Apps/FAQs/Marketplace_payments)
  * [In-app payment](https://developer.mozilla.org/en-US/docs/Web/Apps/Publishing/In-app_payments)
