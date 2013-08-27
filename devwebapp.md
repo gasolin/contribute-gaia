@@ -4,7 +4,7 @@
  * [FirefoxOS Simulator] (https://developer.mozilla.org/en-US/docs/Tools/Firefox_OS_Simulator)
  * [FirefoxOS Boilerplate App] (https://github.com/robnyman/Firefox-OS-Boilerplate-App)
  * [FxosBMI] (https://github.com/gasolin/fxosbmi/tree/indexedDB)
- * [Building Block] (https://github.com/mozilla-b2g/Gaia-UI-Building-Blocks)
+ * [BuildingBlocks] (https://github.com/mozilla-b2g/Gaia-UI-Building-Blocks)
  * [App FAQ] (https://wiki.mozilla.org/B2G/FAQ/Apps)
 
 ## Payment
