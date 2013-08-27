@@ -8,12 +8,10 @@
  * [App FAQ] (https://wiki.mozilla.org/B2G/FAQ/Apps)
 
 ## Web API availability
- * MobileHTML (http://mobilehtml5.org/)
+ * HTML5 Plase (http://html5please.com/)
+ * Mobile HTML (http://mobilehtml5.org/)
  * Can I Use (http://caniuse.com/)
-
-## Browser Performance
  * HTML5test (http://html5test.com/)
-
 
 ## Payment
  * [Marketplace Payment] (https://marketplace.firefox.com/developers/docs/payments) / [another reference](https://developer.mozilla.org/en-US/docs/Web/Apps/FAQs/Marketplace_payments)
