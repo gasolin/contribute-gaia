@@ -6,6 +6,10 @@
  * [FxosBMI] (https://github.com/gasolin/fxosbmi/tree/indexedDB)
  * [App FAQ] (https://wiki.mozilla.org/B2G/FAQ/Apps)
 
+## IDE
+
+ * [jsFiddle] (http://jsfiddle.net/) and [usage](http://www.cool3c.com/article/70384)
+
 ## UI elements
 
  * [BuildingBlocks] (https://github.com/mozilla-b2g/Gaia-UI-Building-Blocks)
