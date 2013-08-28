@@ -4,10 +4,15 @@
  * [FirefoxOS Simulator] (https://developer.mozilla.org/en-US/docs/Tools/Firefox_OS_Simulator)
  * [FirefoxOS Boilerplate App] (https://github.com/robnyman/Firefox-OS-Boilerplate-App)
  * [FxosBMI] (https://github.com/gasolin/fxosbmi/tree/indexedDB)
- * [BuildingBlocks] (https://github.com/mozilla-b2g/Gaia-UI-Building-Blocks)
  * [App FAQ] (https://wiki.mozilla.org/B2G/FAQ/Apps)
 
-## Web API availability
+## UI elements
+
+ * [BuildingBlocks] (https://github.com/mozilla-b2g/Gaia-UI-Building-Blocks)
+ * [Brick] (http://mozilla.github.io/brick/docs.html)
+ * [Web Components Gallery] (http://customelements.io/)
+
+## API availability
  * HTML5 Plase (http://html5please.com/)
  * Mobile HTML (http://mobilehtml5.org/)
  * Can I Use (http://caniuse.com/)
