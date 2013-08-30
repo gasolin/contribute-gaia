@@ -1,14 +1,21 @@
 ## Dev webapp
 
  * [What is firefoxos] (http://en.wikipedia.org/wiki/Firefox_OS)
- * [FirefoxOS Simulator] (https://developer.mozilla.org/en-US/docs/Tools/Firefox_OS_Simulator)
- * [FirefoxOS Boilerplate App] (https://github.com/robnyman/Firefox-OS-Boilerplate-App)
- * [FxosBMI] (https://github.com/gasolin/fxosbmi/tree/indexedDB)
  * [App FAQ] (https://wiki.mozilla.org/B2G/FAQ/Apps)
 
-## IDE
+## Dev tools
 
  * [jsFiddle] (http://jsfiddle.net/) and [usage](http://www.cool3c.com/article/70384)
+ * [FirefoxOS Simulator] (https://developer.mozilla.org/en-US/docs/Tools/Firefox_OS_Simulator)
+
+## Reference
+
+ * [FirefoxOS Boilerplate App] (https://github.com/robnyman/Firefox-OS-Boilerplate-App)
+ * [FxosBMI] (https://github.com/gasolin/fxosbmi/tree/indexedDB)
+
+## Bootstrap
+
+ * [Install.js] (https://github.com/wavysandbox/install/)
 
 ## UI elements
 
