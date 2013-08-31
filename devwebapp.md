@@ -2,6 +2,8 @@
 
  * [What is firefoxos] (http://en.wikipedia.org/wiki/Firefox_OS)
  * [App FAQ] (https://wiki.mozilla.org/B2G/FAQ/Apps)
+ * [Amazon webapp] (https://developer.amazon.com/sdk/webapps.html)
+ * [Chrome installable web apps] (https://developers.google.com/chrome/apps/)
 
 ## Dev tools
 
@@ -32,6 +34,10 @@
 ## Payment
  * [Marketplace Payment] (https://marketplace.firefox.com/developers/docs/payments) / [another reference](https://developer.mozilla.org/en-US/docs/Web/Apps/FAQs/Marketplace_payments)
  * [In-app payment](https://developer.mozilla.org/en-US/docs/Web/Apps/Publishing/In-app_payments)
+
+## Share profit
+
+ * [Amazon Mobile Associate] (https://developer.amazon.com/sdk/mobile-associates.html)
 
 ## Tools to protect your code
 
