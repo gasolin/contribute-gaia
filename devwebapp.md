@@ -4,6 +4,7 @@
  * [App FAQ] (https://wiki.mozilla.org/B2G/FAQ/Apps)
  * [Amazon webapp] (https://developer.amazon.com/sdk/webapps.html)
  * [Chrome installable web apps] (https://developers.google.com/chrome/apps/)
+ * [Kickstarting Firefox OS app development] (http://shafiul.github.io/slides/kickstart_fxos.html#/)
 
 ## Dev tools
 
