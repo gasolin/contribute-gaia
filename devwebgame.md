@@ -3,8 +3,8 @@
 ## Game Engines
 
 * [HTML5 Game Engines] (http://html5gameengine.com/)
+* [breakouts] (http://city41.github.io/breakouts/index.html)
 
-## Demos
+## Game Design
 
-* [HTML5 Games] (http://clay.io/play)
-* [Slime Vally Source] (https://github.com/claydotio/Slime-Volley)
+* [HTML5 Games: Learning from Mobile and Flash Games] (http://www.gamasutra.com/blogs/AustinHallock/20130224/187213/HTML5_Games_Learning_from_Mobile_and_Flash_Games.php)
