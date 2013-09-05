@@ -22,3 +22,7 @@ and profile the Firefox OS Frontend (gaia) contribution procedures for new comme
 
 * version control and git/github
 * issue tracking and bugzilla
+
+## Test
+
+* [sinon] (http://sinonjs.org/docs/)
