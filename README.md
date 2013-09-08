@@ -17,7 +17,8 @@ and profile the Firefox OS Frontend (gaia) contribution procedures for new comme
 * [Javascript reference] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 * [Web API reference] (https://developer.mozilla.org/en-US/docs/WebAPI)
 * [Build in Web Activity reference] (https://github.com/gasolin/contribute-gaia/blob/master/WebActivity.md)
-
+* [https://wiki.mozilla.org/Gaia/System/Activities](Activities)
+ 
 ## Prerequisite
 
 * version control and git/github
