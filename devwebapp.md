@@ -6,6 +6,14 @@
  * [Chrome installable web apps] (https://developers.google.com/chrome/apps/)
  * [Kickstarting Firefox OS app development] (http://shafiul.github.io/slides/kickstart_fxos.html#/)
 
+## Manifest format
+Normal websites with a bit of extra metadata, make web app installable
+
+* [Firefox webapp] (https://developer.mozilla.org/en-US/docs/Web/Apps/Manifest)
+* [Amazon webapp] (https://developer.amazon.com/sdk/webapps/manifest.html)
+* [Chrome hosted webapp] (https://developers.google.com/chrome/apps/docs/developers_guide)
+* [Chrome packaged webapp] (http://developer.chrome.com/apps/about_apps.html)
+
 ## Dev tools
 
  * [jsFiddle] (http://jsfiddle.net/) and [usage](http://www.cool3c.com/article/70384)
@@ -36,6 +44,7 @@
 ## Payment
  * [Marketplace Payment] (https://marketplace.firefox.com/developers/docs/payments) / [another reference](https://developer.mozilla.org/en-US/docs/Web/Apps/FAQs/Marketplace_payments)
  * [In-app payment](https://developer.mozilla.org/en-US/docs/Web/Apps/Publishing/In-app_payments)
+ * [Chreom In-app payment](http://developer.chrome.com/apps/in_app_payments.html)
 
 ## Share profit
 
