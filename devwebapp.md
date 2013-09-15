@@ -55,3 +55,6 @@ Normal websites with a bit of extra metadata, make web app installable
  * js to optimized js [google closure compiler] (https://developers.google.com/closure/compiler/docs/gettingstarted_app)
  * c++ to js [emscripten] (https://github.com/kripken/emscripten/wiki/Tutorial)
  * generate css or optimize image [prepos] (http://alphapixels.com/prepros/docs/index.html)
+
+## browser market share
+ * http://gs.statcounter.com/
