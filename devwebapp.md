@@ -48,6 +48,7 @@ Normal websites with a bit of extra metadata, make web app installable
 
 ## Share profit
 
+ * [Google AdSense] (https://support.google.com/adsense/answer/17470)
  * [Amazon Mobile Associate] (https://developer.amazon.com/sdk/mobile-associates.html)
 
 ## Tools to protect your code
