@@ -45,12 +45,13 @@ Normal websites with a bit of extra metadata, make web app installable
 ## Payment
  * [Marketplace Payment] (https://marketplace.firefox.com/developers/docs/payments) / [another reference](https://developer.mozilla.org/en-US/docs/Web/Apps/FAQs/Marketplace_payments)
  * [In-app payment](https://developer.mozilla.org/en-US/docs/Web/Apps/Publishing/In-app_payments)
- * [Chreom In-app payment](http://developer.chrome.com/apps/in_app_payments.html)
+ * [Chrome In-app payment](http://developer.chrome.com/apps/in_app_payments.html)
 
 ## Share profit
 
  * [Google AdSense] (https://support.google.com/adsense/answer/17470)
  * [Amazon Mobile Associate] (https://developer.amazon.com/sdk/mobile-associates.html)
+ * [Inneractive] (https://hacks.mozilla.org/2013/10/monetization-with-inneractive-on-firefox-os/)
 
 ## Tools to protect your code
 
