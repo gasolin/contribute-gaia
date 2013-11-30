@@ -40,6 +40,7 @@ Normal websites with a bit of extra metadata, make web app installable
  * Mobile HTML (http://mobilehtml5.org/)
  * Can I Use (http://caniuse.com/)
  * HTML5test (http://html5test.com/)
+ * [Web API](https://developer.mozilla.org/en-US/docs/WebAPI) and [permisisons] (https://mxr.mozilla.org/mozilla-central/source/dom/apps/src/PermissionsTable.jsm#36)
 
 ## Payment
  * [Marketplace Payment] (https://marketplace.firefox.com/developers/docs/payments) / [another reference](https://developer.mozilla.org/en-US/docs/Web/Apps/FAQs/Marketplace_payments)
