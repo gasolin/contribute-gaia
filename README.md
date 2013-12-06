@@ -16,6 +16,7 @@ and profile the Firefox OS Frontend (gaia) contribution procedures for new comme
 * [CSS reference] (https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 * [Javascript reference] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 * [Web API reference] (https://developer.mozilla.org/en-US/docs/WebAPI)
+* [Progressing Web API] (https://wiki.mozilla.org/WebAPI)
 * [Activities] (https://wiki.mozilla.org/Gaia/System/Activities) / [Build in Web Activity reference] (https://github.com/gasolin/contribute-gaia/blob/master/WebActivity.md)
 * [FirefoxOS style guide] (https://www.mozilla.org/en-US/styleguide/products/firefox-os/)
 
