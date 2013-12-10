@@ -14,6 +14,9 @@ Normal websites with a bit of extra metadata, make web app installable
 * [Chrome hosted webapp] (https://developers.google.com/chrome/apps/docs/developers_guide)
 * [Chrome packaged webapp] (http://developer.chrome.com/apps/about_apps.html)
 
+## packaged app
+* [deprecated web features] (http://developer.chrome.com/apps/app_deprecated.html) (chrome)
+
 ## Dev tools
 
  * [jsFiddle] (http://jsfiddle.net/) and [usage](http://www.cool3c.com/article/70384)
