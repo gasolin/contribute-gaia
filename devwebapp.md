@@ -48,7 +48,7 @@ Normal websites with a bit of extra metadata, make web app installable
 ## Payment
  * [Marketplace Payment] (https://marketplace.firefox.com/developers/docs/payments) / [another reference](https://developer.mozilla.org/en-US/docs/Web/Apps/FAQs/Marketplace_payments)
  * [In-app payment](https://developer.mozilla.org/en-US/docs/Web/Apps/Publishing/In-app_payments)
- * [Chrome In-app payment](http://developer.chrome.com/apps/in_app_payments.html)
+ * [Google Wallet for digital goods](http://developer.chrome.com/apps/in_app_payments.html) , [tutorial](http://developer.chrome.com/apps/google_wallet.html)
 
 ## Share profit
 
