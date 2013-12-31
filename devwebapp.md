@@ -20,7 +20,8 @@ Normal websites with a bit of extra metadata, make web app installable
 ## Dev tools
 
  * [jsFiddle] (http://jsfiddle.net/) and [usage](http://www.cool3c.com/article/70384)
- * [FirefoxOS Simulator] (https://developer.mozilla.org/en-US/docs/Tools/Firefox_OS_Simulator)
+ * [Firefox App Manager] (https://developer.mozilla.org/en-US/Firefox_OS/Using_the_App_Manager)
+ * [Chrome Mobile Emulation](https://developers.google.com/chrome-developer-tools/docs/mobile-emulation)
  * [Amazon webapp tester] (https://developer.amazon.com/sdk/webapps/tester.html)
 
 ## Reference
