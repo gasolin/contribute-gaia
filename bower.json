@@ -1,0 +1,19 @@
+{
+  "name": "firefoxos-arsenal",
+  "version": "0.1",
+  "homepage": "https://github.com/gasolin/firefoxos-arsenal",
+  "authors": [
+    "gasolin <gasolin@gmail.com>"
+  ],
+  "description": "webapplate",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "localforage": "~0.4.0",
+    "d3": "~3.4.8"
+  }
+}

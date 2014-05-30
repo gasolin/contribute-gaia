@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--
+Exchange the line above for this to enable offline support
+<html lang="en" manifest="manifest.appcache">
+-->
+  <head>
+	<meta charset="UTF-8">
+	<title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- installable from browser -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <!-- icons -->
+    <link rel="icon" href="style/icons/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" sizes="128x128" href="apple-touch-icon-precomposed.png">
+    <link rel="style/icons/apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
+
+    <!-- IE compatibility -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!--[if IE]><link rel="shortcut icon" href="style/icons/favicon.ico"  type="image/x-icon"><![endif]-->
+
+    <!--<link rel="dns-prefetch" href="//ajax.googleapis.com">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/vendor/jquery-2.0.2.min.js"><\/script>')
+    </script>-->
+    <link rel="stylesheet" href="vendor/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style/main.css">
+    <script src="locales/l20n.min.js"></script>
+    <link rel="localization" href="locales/manifest.json">
+  </head>
+  <body class="hidden">
+    <!-- Add your site or application content here -->
+	  <h1 data-l10n-id="hello">Map</h1>
+    <div id="split-container">
+<!--
+    <a class="btn btn-default nav-button" id="nav-list" href="list.php<?php echo $dataset_qs; ?>">
+    View list
+    </a>
+-->
+    <div id="graph-container">
+    <div id="graph"></div>
+    </div>
+    <div id="docs-container">
+      <a id="docs-close" href="#">&times;</a>
+    <div id="docs" class="docs"></div>
+    </div>
+    </div>
+
+    <!-- Custom actions here -->
+    <!-- build:js js/app.js -->
+    <script defer src="vendor/d3/d3.min.js"></script>
+    <!-- <script defer src="vendor/jquery/dist/jquery.min.js"></script>
+    <script defer src="vendor/colorbrewer/colorbrewer.js"></script>
+    <script defer src="js/script.js"></script> -->
+    <script defer src="js/main.js"></script>
+    <!-- endbuild -->
+
+    <!-- App Install detection -->
+    <!--<script src="js/app_installer.js"></script>-->
+
+    <!-- Debugger - remove for production -->
+    <!--<script src="https://getfirebug.com/firebug-lite.js"></script>-->
+
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+    <!--<script>
+        var _gaq=[["_setAccount","UA-XXXXX-X"],["_trackPageview"]];
+        (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;
+        g.src=("https:"==location.protocol?"//ssl":"//www")+".google-analytics.com/ga.js";
+        s.parentNode.insertBefore(g,s)}(document,"script"));
+    </script>-->
+  </body>
+</html>
